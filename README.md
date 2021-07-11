@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **aristotelesbr/aristotelesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://cdn.dribbble.com/users/26222/screenshots/1395942/ruby2.gif)
